@@ -24,3 +24,15 @@
 | [cliff-edge](https://github.com/Loph8/cliff-edge) | | TypeScript |
 | [accomplishment-journal](https://github.com/Loph8/accomplishment-journal) | | HTML |
 | [my-game](https://github.com/Loph8/my-game) | | Shell |
+
+## Languages
+
+Swift · TypeScript · HTML · Shell
+
+## Contribution trail
+
+<div align="center">
+
+![Snake eating my GitHub contribution graph](./dist/github-snake-dark.svg)
+
+</div>
