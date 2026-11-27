@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Loph8/Loph8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sophia Li
 
-Here are some ideas to get you started:
+[Website](https://sophiali.us) · [GitHub](https://github.com/Loph8) · [X](https://x.com/loaf4soph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## My year in 3D
+
+<div align="center">
+
+![3D skyline of my GitHub contributions](./profile-3d-contrib/profile-night-green.svg)
+
+<sub>Every building is a day. Taller means more contributions.</sub>
+
+</div>
+
+## Projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Kairo](https://github.com/Loph8/kairo) | Find the right moment to call family across time zones. iOS widget and availability agents. | Swift |
+| [cliff-edge](https://github.com/Loph8/cliff-edge) | | TypeScript |
+| [accomplishment-journal](https://github.com/Loph8/accomplishment-journal) | | HTML |
+| [my-game](https://github.com/Loph8/my-game) | | Shell |
