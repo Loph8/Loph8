@@ -1,8 +1,16 @@
 <div align="center">
 
-# Sophia Li
+AN EDITORIAL PROFILE · LOPH8
 
-[Website](https://sophiali.us) · [GitHub](https://github.com/Loph8) · [X](https://x.com/loaf4soph)
+<img src="./assets/card.svg" width="100%" alt="Sophia Li (@loph8). Building with Shell on GitHub. Shell, Swift, TypeScript, HTML.">
+
+<img src="./assets/wordmark.svg" width="100%" alt="SOPHIA LI in animated block letters">
+
+Building useful things and sharing the work in public.
+
+[GitHub](https://github.com/Loph8) · [Website](https://sophiali.us) · [X](https://x.com/loaf4soph)
+
+───────── ◇ ─────────
 
 </div>
 
